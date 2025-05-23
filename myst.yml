@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Boundary Layer IntercoMparison Project (BLIMP)
+  title: Boundary Layer in Multiple Places (BLIMP)
   description: BLIMP project repository from the 2025 ARM Summer School
   # keywords: []
   authors:
