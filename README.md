@@ -1,22 +1,13 @@
-# Hackathon Template Github
+# Boundary layer properties across heterogeneous landscapes (BLIMP)
 
-**2024-11-19**  **-** **2024-11-20** 
+Boundary layer properties across heterogeneous landscapes (BLIMP) project repository for the 2025 ARM Summer School
 
-Github Pages based template for hackathons
+## Team Members
+Ajmal Rasheeda Satheesh, Garett Warner, Jiaxuan Cai (students)
+Tim Juliano, Joe O’Brien, Tim Wagner (instructors)
 
 
-## Instructors and Mentors
-
-Please list your instructors and mentors below!
-
-| Instructor | Affiliation | Links |
-| :------- | ------- |:------- |
-| Instructor Name | Lead Instructor Affiliation | [Github](https://github.com/username) |
-
-## Schedule
-
-## 2024-11-19
-
-| Time                | Topic                     | Presenter        |
-| :---:               |    :----:                 |    :---:         |
-| 09:00 AM - 09:30 AM | Welcome/Introduction      | Instructor Name      |
+## Science question(s):
+(1) How similar are the PBL height estimated using different methods?
+(2) How similar are boundary layer properties between main and supplemental ARM sites?
+(3) What is the boundary layer diurnal evolution?
