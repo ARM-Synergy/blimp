@@ -1,28 +1,24 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Hackathon Template Github
-  description: Github Pages based template for hackathons
+  title: Boundary Layer IntercoMparison Project (BLIMP)
+  description: BLIMP project repository from the 2025 ARM Summer School
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
-  github: https://github.com/hackthackathon/hackathon-template-github
+    - name: Garett Warner
+    - name: Jiaxuan Cai
+    - name: Ajmal Rasheeda Satheesh
+    - name: Tim Juliano
+    - name: Joseph OBrien
+  github: https://github.com/ARM-Synergy/blimp
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
-    - title: Projects
-      children:
-        - pattern: 'projects/project-*'
+    - file: BLIMP.ipynb
+    - file: lidar_data.ipynb
 site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    favicon: https://github.com/ARM-Synergy/bnf-deep-convection/blob/854e3877d638fcf0b24b3a76405c9ab19f753b14/images/arm_logo.png
+    logo: https://github.com/ARM-Synergy/bnf-deep-convection/blob/854e3877d638fcf0b24b3a76405c9ab19f753b14/images/arm_logo.png
