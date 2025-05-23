@@ -20,5 +20,5 @@ site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://github.com/ARM-Synergy/bnf-deep-convection/blob/854e3877d638fcf0b24b3a76405c9ab19f753b14/images/arm_logo.png
-    logo: https://github.com/ARM-Synergy/bnf-deep-convection/blob/854e3877d638fcf0b24b3a76405c9ab19f753b14/images/arm_logo.png
+    favicon: images/arm_logo.png
+    logo: images/arm_logo.png
