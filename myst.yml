@@ -3,13 +3,18 @@ version: 1
 project:
   title: Boundary Layer in Multiple Places (BLIMP)
   description: BLIMP project repository from the 2025 ARM Summer School
-  # keywords: []
   authors:
-    - name: Garett Warner
-    - name: Jiaxuan Cai
     - name: Ajmal Rasheeda Satheesh
+      orcid: https://orcid.org/0009-0006-1349-3707
+    - name: Garett Warner
+      orcid: https://orcid.org/0009-0003-7334-2626
+    - name: Jiaxuan Cai
     - name: Tim Juliano
+      orcid: https://orcid.org/0000-0003-0417-0886
     - name: Joseph OBrien
+      orcid: https://orcid.org/0000-0003-4655-6912
+    - name: Tim Wagner
+      orcid: https://orcid.org/0000-0002-3958-212X 
   github: https://github.com/ARM-Synergy/blimp
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:

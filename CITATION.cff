@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use the findings and workflows, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Satheesh
+    given-names: Ajmal Rasheeda
+    orcid: https://orcid.org/0009-0006-1349-3707 # optional
+    affiliation: North Carolina State University
+  - family-names: Warner
+    given-names: Garett
+    orcid: https://orcid.org/0009-0003-7334-2626 # optional
+    affiliation: Pennsylvania State University
+  - family-names: Cai
+    given-names: Jiaxuan
+    affiliation: Duke University
+  - family-names: Juliano
+    given-names: Timothy
+    orcid: https://orcid.org/0000-0003-0417-0886 # optional
+    affiliation: NSF National Center for Atmospheric Research
+  - family-names: "O'Brien"
+    given-names: Joseph R
+    orcid: https://orcid.org/0000-0003-4655-6912 # optional
+    affiliation: Argonne National Laboratory
+  - family-names: Wagner
+    given-names: Timothy
+    orcid: https://orcid.org/0000-0002-3958-212X 
+    affiliation: University of Wisconsin-Madison Space Science and Engineering Center
+ 

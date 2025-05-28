@@ -1,7 +1,14 @@
-name: hackathon-template-github-dev
+name: blimp-dev
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - mystmd
   - cookiecutter
+  - act-atmos
+  - matplotlib
+  - cmweather
+  - arm_pyart
+  - xarray
+  # - wrf-python - only installable on non-Apple silicon machines
+  - netCDF4
