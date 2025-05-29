@@ -1,4 +1,4 @@
-# Boundary layer properties across heterogeneous landscapes (BLIMP)
+# Boundary Layer in Multiple Places - BLIMP
 
 [![DOI](https://zenodo.org/badge/987786769.svg)](https://doi.org/10.5281/zenodo.15545988)
 
