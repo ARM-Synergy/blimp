@@ -1,5 +1,7 @@
 # Boundary layer properties across heterogeneous landscapes (BLIMP)
 
+[![DOI](https://zenodo.org/badge/987786769.svg)](https://doi.org/10.5281/zenodo.15545988)
+
 Boundary layer properties across heterogeneous landscapes (BLIMP) project repository for the 2025 ARM Summer School
 
 ## Team Members
