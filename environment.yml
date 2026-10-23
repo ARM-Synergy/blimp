@@ -2,7 +2,7 @@ name: blimp-dev
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.14
   - mystmd
   - cookiecutter
   - act-atmos
@@ -10,5 +10,4 @@ dependencies:
   - cmweather
   - arm_pyart
   - xarray
-  # - wrf-python - only installable on non-Apple silicon machines
   - netCDF4
